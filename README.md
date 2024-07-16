@@ -62,7 +62,7 @@ The application will be available at http://localhost:8000
 ## Screenshots
 
 ### Home Page
-![Login Page](public/screenshots/home.png)
+![Home Page](public/screenshots/home.png)
 
 ### Dashboard
 ![Dashboard](public/screenshots/dashboard.png)
@@ -71,13 +71,13 @@ The application will be available at http://localhost:8000
 ![Sum Feature](public/screenshots/sum.png)
 
 ### Buy Credit
-![Minus Feature](public/screenshots/buy_credit.png)
+![Buy Credit](public/screenshots/buy_credit.png)
 
 ### Packages to Buy Credit
-![Multiplication Feature](public/screenshots/buy_credit.png)
+![Packages](public/screenshots/buy_credits.png)
 
 ### Profile
-![Division Feature](public/screenshots/profile.png)
+![Profile](public/screenshots/profile.png)
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
