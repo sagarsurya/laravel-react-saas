@@ -61,26 +61,24 @@ The application will be available at http://localhost:8000
 
 ## Screenshots
 
-### Login Page
-![Login Page](path/to/login-page-screenshot.png)
+### Home Page
+![Login Page](public/screenshots/home.png)
 
 ### Dashboard
-![Dashboard](path/to/dashboard-screenshot.png)
+![Dashboard](public/screenshots/dashboard.png)
 
 ### Sum Feature
-![Sum Feature](path/to/sum-feature-screenshot.png)
+![Sum Feature](public/screenshots/sum.png)
 
-### Minus Feature
-![Minus Feature](path/to/minus-feature-screenshot.png)
+### Buy Credit
+![Minus Feature](public/screenshots/buy_credit.png)
 
-### Multiplication Feature
-![Multiplication Feature](path/to/multiplication-feature-screenshot.png)
+### Packages to Buy Credit
+![Multiplication Feature](public/screenshots/buy_credit.png)
 
-### Division Feature
-![Division Feature](path/to/division-feature-screenshot.png)
+### Profile
+![Division Feature](public/screenshots/profile.png)
 
-### Stripe Payment Integration
-![Stripe Payment](path/to/stripe-payment-screenshot.png)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
