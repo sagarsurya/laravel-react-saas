@@ -1,3 +1,87 @@
+# Laravel & React Saas Application
+
+## Introduction
+
+This project is a SaaS application built with Laravel and React, utilizing Laravel Breeze for authentication. The application offers four mathematical operations: addition, subtraction, multiplication, and division. Each operation requires credits, and when credits are depleted, users can purchase additional credits through Stripe payment integration.
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed on your local machine:
+
+- PHP (version 8.x recommended)
+- Composer
+- MySQL or any other compatible database system
+- Git
+
+## Getting Started
+
+Follow these steps to get the project up and running on your local machine:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/sagarsurya/laravel-react-saas.git
+cd laravel-react-saas
+```
+### 2. Set up your environment
+
+```bash
+cp .env.example .env
+```
+
+Edit the .env file and set your database credentials:
+
+```bash
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=your_database_name
+DB_USERNAME=your_database_username
+DB_PASSWORD=your_database_password
+```
+
+### 3. Install dependencies
+
+```bash
+composer install
+```
+
+### 4. Run migrations and seeders
+
+```bash
+php artisan migrate:fresh --seed
+```
+
+### 5. Start the development server
+
+```bash
+php artisan serve
+```
+The application will be available at http://localhost:8000
+
+## Screenshots
+
+### Login Page
+![Login Page](path/to/login-page-screenshot.png)
+
+### Dashboard
+![Dashboard](path/to/dashboard-screenshot.png)
+
+### Sum Feature
+![Sum Feature](path/to/sum-feature-screenshot.png)
+
+### Minus Feature
+![Minus Feature](path/to/minus-feature-screenshot.png)
+
+### Multiplication Feature
+![Multiplication Feature](path/to/multiplication-feature-screenshot.png)
+
+### Division Feature
+![Division Feature](path/to/division-feature-screenshot.png)
+
+### Stripe Payment Integration
+![Stripe Payment](path/to/stripe-payment-screenshot.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
